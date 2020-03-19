@@ -17,4 +17,8 @@ public abstract class Document {
         }
         return res;
     }
+
+    public int newMethod(){
+        return 1;
+    }
 }
